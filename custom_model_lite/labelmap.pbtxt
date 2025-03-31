@@ -1,0 +1,10 @@
+item {
+  id: 1
+  name: 'Crop'
+}
+
+item {
+  id: 2
+  name: 'Weed'
+}
+
